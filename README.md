@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/weight/main/.github/assets/thumbnail.png" alt="weight" width="100%">
+</p>
+
 # Weight CLI
 *A digital mood ring for your text messages*
 
